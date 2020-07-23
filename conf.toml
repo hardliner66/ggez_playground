@@ -1,0 +1,22 @@
+[window_mode]
+width = 50
+height = 50
+borderless = false
+fullscreen_type = "Off"
+vsync = false
+min_width = 50
+min_height = 50
+max_width = 1920
+max_height = 1080
+
+[window_setup]
+title = "A random walk"
+icon = ""
+resizable = true
+allow_highdpi = false
+samples = "One"
+
+[backend]
+type = "OpenGL"
+major = 3
+minor = 2
